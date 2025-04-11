@@ -5,7 +5,7 @@
 【 超级个体丨创业者丨运营丨交易员丨Web 3爱好者 】
 
   [![X](https://img.shields.io/badge/Follow-BlackZhangJX-white?style=flat&logo=X)](https://x.com/BlackZhangJX)
-  ![微信](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-%E5%BC%93%E9%95%BF-green?style=flat&logo=wechat)
+  ![微信](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1_%E5%BC%93%E9%95%BF-%E4%B8%8D%E5%AF%B9%E5%A4%96%E5%BC%80%E6%94%BE-green?style=flat&logo=wechat)
 
 
 希望做一个会发光的人，长期做一件会发光的事。
