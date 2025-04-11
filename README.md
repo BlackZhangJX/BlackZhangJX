@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+  
+感谢你的来访！我是弓长，正在努力变得优秀中
 
-<!--
-**BlackZhangJX/BlackZhangJX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+【 超级个体丨创业者丨运营丨交易员丨Web 3爱好者 】
 
-Here are some ideas to get you started:
+  [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/BlackZhangJX)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+希望做一个会发光的人，长期做一件会发光的事。
+
+***
+
+【SpringDAO Co-Founder / COO】
+
+  [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/_SpringDAO)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.co/tTlGeyPbuN)
+  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2e3sWnmfh8)
+
+***
+
+</div>
