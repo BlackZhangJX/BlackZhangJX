@@ -21,135 +21,109 @@
 
 ***
 
-![](screenshots/1.png)
+<img src="screenshots/1.png" width=50%>
 
 </div>
 
-# 👀社区简介
+# ⛳️SpringDao
 
-SpringDAO是一个年轻且优秀的Web3自治社区,我们鼓励大家成为Web3项目的深度建设者并给你提供各种的帮助！
+SpringDAO是一个专注培养深度Web3建设者的成长型社区！
 
-## 社区特色
+作为一个年轻的web3自治社区，我们鼓励大家成为web3项目的深度建设者并给你提供各种方面的帮助！
 
-### 🔎投研
+✅专业投研支持 ✅特色任务看板 ✅分层激励体系
 
-我们有专业的投研组，从技术，融资，创始人背景，人脉资源，甚至源码等多个方面去挖掘Web3项目。
+✅自动化工具 ✅Web3成长学院 ✅革命性治理模式
 
-![img](screenshots/2.png)
+## 🔎顶级投研系统
 
-**多角度投研列表看板**
+🛠️立体化分析维度：
 
-![img](screenshots/3.png)
+▫️技术/融资/创始人背景三维扫描
 
-![img](screenshots/4.png)
+▫️独家源码审计方法论
 
-![img](screenshots/5.png)
+▫️实时更新的多维度看板系统
 
-**特色任务清单-小黑奴任务清单（空投、打新、NFT、IDO……各种web3赚钱思路均会写上去）**
+👉🏻特色功能：
 
-![img](screenshots/6.png)
+✨「小黑奴任务清单」
 
-![img](screenshots/7.png)
+✨大众点评式项目避坑指南
 
-评论区大众点评少走弯路，提高效率
+✨智能提醒系统防漏关键节点
 
-![img](screenshots/8.png)
+<div align="center">
+  
+<img src="screenshots/3.png" width=50%><img src="screenshots/4.png" width=50%>
+<img src="screenshots/7.png" width=73%><img src="screenshots/8.png" width=27%>
 
-自动提醒让你不错过任何关键消息
+</div>
 
-![img](screenshots/9.png)
+## 👥革命性治理模式
 
-### 👨💻SpringFarm （即将上线）
+💸70%会费反哺社区！
 
-SpringFarm是一款Web3空投辅助工具，里面将集成各种空投脚本和辅助工具。
+🎯双轨制成长路径：
 
-![img](screenshots/10.png)
+🔹新人模式：付费学习→参与建设→减免会费
 
-2025年4月15日即将开启免费试运营模式，参与方式请看下方活动列表！
+🔹大神模式：经验变现→竞选组长→收入$3000+
 
-**空投脚本-简单好用上手快！（SpringFarm上线后以下脚本都将集成到平台上）**
+🌟组长人均全职撸毛老司机，防女巫教学+实战陪跑！
 
-Mira-klok 免注册+自动对话+刷邀请
-
-![img](screenshots/11.png)
-
-byData 免注册+自动更新并完成任务
-
-![img](screenshots/12.png)
-
-Soundness 自动刷码脚本，一键生成批量私钥！
-
-![img](screenshots/13.png)
-
-### 🫂特色分组式治理
-
-我们将会费的70%回馈到社区激励优秀社员带动社区建设，积攒人脉，激活社区氛围，让枯燥的空投生活充满活力和激情。
-
-每个组的组长都是通过社区重重考核的精英老撸sir，均为全职Web3，有丰富的空投经验和防女巫知识，足以满足大家一切的基础问题解答。
-
-如果你是小白，你的会费则成为了你的学费，因为有激励存在，组长会积极的带动组员进步，如果你想减免会费那你就必须取得进步参与建设，帮助他人就是帮助自己。
-
-如果你是一名老撸sir，你可以在社区分享你的空投教程和经验，如果你的建设很有价值将可以参加小组长的选拔，并且还可以获得社区每个月的优质教程奖励，实现边撸边赚非常舒服(❁´◡`❁)！
-
+<div align="center">
+  
 ![img](screenshots/14.png)
 
-双向选择，正向竞争，合作共赢！
+</div>
 
-![img](screenshots/15.png)
+## 📚Web3成长学院
 
-![img](screenshots/16.png)
+🗂️知识库覆盖：
 
-![img](screenshots/17.png)
+▫️从新手入门到进阶的全阶段教程
 
-### 📃优质教程库
+▫️每周直播教学+小组特训营
 
-投研组投研项目将会由投研组自己撰写，其他项目由所有社员自行撰写，可以是视频教程，也可以是图文教程。
+▫️月度优质教程评选（$10/篇）
 
-每月优质教程会获得额外奖励(具体见下方社区福利板块)。
+<div align="center">
+  
+<img src="screenshots/18.png" width=53.88%><img src="screenshots/19.png" width=46.12%>
 
-SpringDAO 知识库内容十分全面，都是由SpringDAO运营组亲自编写，涵盖小白到进阶的所有内容。
+</div>
 
-未来还会出现更多提升认知甚至是提升脚本编写能力的教程。
+## 🤝人脉金矿
 
-![img](screenshots/18.png)
+社区聚集：
 
-每周定时直播教学，从小白-》进阶都会讲到，小组内会议社区不会干涉，但是必须报备！
+✅项目方核心成员 ✅技术极客
 
-![img](screenshots/19.png)
+✅KOL联盟 ✅法律合规天团
 
-### 🫱其它赋能
+💎三大赋能计划：
 
-SpringDAO中有非常多的优质人脉资源，mod、kol、社区头部建设者、web3开发者、律师、优质内容创作者…… 正因为有他们的存在奠定了社区的基石，让我们的社区更加强大。
+▫️KOL流量扶持计划
 
-无论你想成为什么角色，只要你去努力，社区全部都支持你！
+▫️开发者工具变现通道
 
-你很会写文案，想成为KOL，那么大家都去给你点关注给你转发社区KOL也会给引流。
+▫️艺术家创造力合作计划
 
-你很会画画，想获得项目方奖励，那么社区会指导你如何用自己的技能在Web3里面获取更多利益。
+## 🛑注意！这不是普通社区
 
-你想是程序员，你想编写脚本，那么社区会指导你如何去编写脚本，优秀者会吸入SpringFarm获得收益。
+⚠️适合人群：
 
-![img](screenshots/20.png)
+▫️愿意持续6个月以上投入
 
-![img](screenshots/21.png)
+▫️日均1小时学习/操作
 
-**新闻监听器，每次我们都是最快的**
+▫️追求长期生态位建设
 
-![img](screenshots/22.png)
+✅收获：<br>
+从撸毛散户→项目共建者→生态赢家的蜕变！
 
-**项目方推特监听器（soon）**
-
-正在开发中……
-
-## 🤩如何加入我们？
-
-开放telegram群：[![Telegram](https://img.shields.io/badge/Telegram-SpringDAO-blue?style=flat&logo=Telegram)](https://t.co/tTlGeyPbuN)
-
-开放Discord社区：[![Discord](https://img.shields.io/badge/Discord-SpringDAO-purple?style=flat&logo=Discord)](https://discord.gg/2e3sWnmfh8)
-
-会员咨询与付费：![微信](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1_%E5%BC%93%E9%95%BF%E6%80%8E%E6%98%AF%E5%BC%A0-CoreZhang888-green?style=flat&logo=wechat)
-
-### 会费说明：
+## SpringDAO会费说明：
 
 **3个月：** 100U
 
@@ -161,57 +135,11 @@ SpringDAO中有非常多的优质人脉资源，mod、kol、社区头部建设�
 
 ⚠️ **警告！会费涨价倒计时中**
 
-## 💵💵💵SpringDAO早鸟活动💵💵💵
+## 🔥立即加入SpringDAO
 
-早期加入SpringDAO自动获得SpringFarm试用资格白名单，并在正式上线后免费试用1个月。
+开放telegram群：[![Telegram](https://img.shields.io/badge/Telegram-SpringDAO-blue?style=flat&logo=Telegram)](https://t.co/tTlGeyPbuN)
 
-SpringFarm试用期将会持续完善项目脚本，同期上线功能有 Discord-AI-Bot
+开放Discord社区：[![Discord](https://img.shields.io/badge/Discord-SpringDAO-purple?style=flat&logo=Discord)](https://discord.gg/2e3sWnmfh8)
 
-## ⛽社区激励
+会员咨询与付费：![微信](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1_%E5%BC%93%E9%95%BF%E6%80%8E%E6%98%AF%E5%BC%A0-CoreZhang888-green?style=flat&logo=wechat)
 
-### SpringDAO会员拉新返利
-
-| **拉新量（仅限拉新用户，续费不算）** | **返佣比例** | **额外奖励**                      | **收益**             |
-| -------------------------------------------------------- | -------- | --------------------------------- | -------------------- |
-| 3人内（包含3人）                                         | 20%      | 第3单：SpringDAO 1月免费使用权    | 60U                  |
-| 4-6人                                                    | 25%      | 第6单：SpringFarm  1月免费使用权  | 75U                  |
-| 7-10人                                                   | 30%      | 第10单：SpringDAO  1月免费使用权  | 120U                 |
-| 11-15人                                                  | 35%      | 第15单：SpringFarm 1月免费使用权  | 175U                 |
-| 16-20人                                                  | 40%      | 第20单：SpringDAO  1月免费使用权  | 200U                 |
-| 21-25人                                                  | 45%      | 第25单：SpringFarm 1月免费使用权  | 225U                 |
-| 26人及以上                                               | 50%      | 第30单：SpringDAO   1月免费使用权 | 250U (按26-30人计算) |
-
-### 盈利分析
-
-返佣为持续性返佣，后续续费会员每人次续费返佣20%
-
-**累计成交30笔：** 即可获得 1105U 现金奖励
-
-**拉新30人并续费一年：** 1105u+600u*3 = 2905U 现金奖励
-
-**结算：** 拉新收益月结，但拉新量累加
-
-
-### 职位-小组Leader
-
-**福利：** 每服务一个组员每月奖励5U、终生8折 SpringFarm使用权、各种社区福利优先获得
-
-**申请条件：** 完成社区考核，社区宣发、拉新或其他领域有重大贡献
-
-**职位要求：** 带领和辅导组员完成撸毛任务
-
-
-### 盈利分析
-
-服务50位组员，每季度共计奖励750U，每年共计奖励3000U 更多社区职位正在陆续赶来中……
-
-
-### 内容创作奖励
-
-优质教程奖励，每月开展教程评选，将选出3篇次，每篇次奖励10U
-
-KOL扶持计划
-
-对社区有突出贡献者有机会获得早期项目白名单
-
-更多社区福利正在开发中……
