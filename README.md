@@ -17,7 +17,7 @@
   [![X](https://img.shields.io/badge/Follow-SpringDAO-white?style=flat&logo=X)](https://x.com/_SpringDAO)
   [![Telegram](https://img.shields.io/badge/Telegram-SpringDAO-blue?style=flat&logo=Telegram)](https://t.co/tTlGeyPbuN)
   [![Discord](https://img.shields.io/badge/Discord-SpringDAO-purple?style=flat&logo=Discord)](https://discord.gg/2e3sWnmfh8)
-  [![微信](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1_%E5%BC%93%E9%95%BF%E6%80%8E%E6%98%AF%E5%BC%A0-CoreZhang888-green?style=flat&logo=wechat)](WeChat2.md)
+  
 
 ***
 
