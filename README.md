@@ -142,5 +142,5 @@ SpringDAO是一个专注培养深度Web3建设者的成长型社区！
 
 开放Discord社区：[![Discord](https://img.shields.io/badge/Discord-SpringDAO-purple?style=flat&logo=Discord)](https://discord.gg/2e3sWnmfh8)
 
-会员咨询与付费：[![微信](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1_%E5%BC%93%E9%95%BF%E6%80%8E%E6%98%AF%E5%BC%A0-CoreZhang888-green?style=flat&logo=wechat)](WeChat2.md)
+会员咨询与付费：TeleGram中联系 @BlackZhang959
 
